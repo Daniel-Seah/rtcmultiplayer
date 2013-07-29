@@ -1,0 +1,7 @@
+{
+  "name": "2 Player Pong",
+  "id": "pong",
+  "version": "1.0.0",
+  "size": 2,
+  "main": "pong.html"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Bombz",
+  "id": "bombz",
+  "version": "1.0.0",
+  "description": "CS4344 Final Project",
+  "contributors":
+  [
+    "Leon Ho <leonho@nus.edu.sg>",
+    "Eldwin Liew <eldwin@nus.edu.sg>",
+    "Natalie Tay <u0909147@nus.edu.sg>"
+  ],
+  "size": 4,
+  "main": "client/index.html"
+}
